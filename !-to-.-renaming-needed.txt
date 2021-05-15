@@ -1,0 +1,2 @@
+Rename !smth files to .smth files.
+. to ! change was needed to add those files to github
